@@ -1,0 +1,6 @@
+{
+  "name": "Maison & Key | Luxury Short-Term Rental Management",
+  "description": "Full-service boutique Airbnb and luxury vacation rental management agency offering turnkey operations, dynamic algorithmic pricing, interior staging, and 24/7 guest hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
